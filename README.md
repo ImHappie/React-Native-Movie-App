@@ -43,12 +43,21 @@ Complete the following steps to build and run the app:
 
 ## About Components
 Here there are namely two components or screens i.e
-  *Search Component
-  *Favorite Component
+
+- Search Component
+- Favorite Component
   
 The Search Component is the first screen that loads when an app starts. This screen consists of a search bar where yousearch your movie and then according to your search you get your results below.
 
 On long press of the movies will be added to favorite component. On the favorite component where you can see all the movies that you are added as a favorite and long pressing again on the movies in the favorite screen that will get delete from this screen.
+
+
+#### Some opinions
+
+-> General Opinions
+
+* I find the linter to not provide value that outweighs the time spent on it and it might show some errors.
+* I find unit tests to be extermely valuable. Needed time to accomplish 
 
 #### Environment
 
