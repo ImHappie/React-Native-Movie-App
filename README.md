@@ -1,4 +1,4 @@
-# TMDB(The Movie Database) app Demo
+# React Native app using TMDB(The Movie Database)
 
 ## About DB and APIs
 TMDB was used for searching the movies.
@@ -22,6 +22,7 @@ Complete the following steps to build and run the app:
   ~~~
 
 2. Install dependencies:
+   To setup this application on your system first run the following command:
 
   ~~~
   $ npm install
@@ -40,6 +41,14 @@ Complete the following steps to build and run the app:
   $ react-native run-android
   ~~~
 
+## About Components
+Here there are namely two components or screens i.e
+  *Search Component
+  *Favorite Component
+  
+The Search Component is the first screen that loads when an app starts. This screen consists of a search bar where yousearch your movie and then according to your search you get your results below.
+
+On long press of the movies will be added to favorite component. On the favorite component where you can see all the movies that you are added as a favorite and long pressing again on the movies in the favorite screen that will get delete from this screen.
 
 #### Environment
 
